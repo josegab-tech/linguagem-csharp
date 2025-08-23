@@ -1,0 +1,14 @@
+C:\Users\joseg\Documents\codigos-c#-josegab\exercicios-vetor\bin\Debug\net9.0\exercicios-vetor.exe
+C:\Users\joseg\Documents\codigos-c#-josegab\exercicios-vetor\bin\Debug\net9.0\exercicios-vetor.deps.json
+C:\Users\joseg\Documents\codigos-c#-josegab\exercicios-vetor\bin\Debug\net9.0\exercicios-vetor.runtimeconfig.json
+C:\Users\joseg\Documents\codigos-c#-josegab\exercicios-vetor\bin\Debug\net9.0\exercicios-vetor.dll
+C:\Users\joseg\Documents\codigos-c#-josegab\exercicios-vetor\bin\Debug\net9.0\exercicios-vetor.pdb
+C:\Users\joseg\Documents\codigos-c#-josegab\exercicios-vetor\obj\Debug\net9.0\exercicios-vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joseg\Documents\codigos-c#-josegab\exercicios-vetor\obj\Debug\net9.0\exercicios-vetor.AssemblyInfoInputs.cache
+C:\Users\joseg\Documents\codigos-c#-josegab\exercicios-vetor\obj\Debug\net9.0\exercicios-vetor.AssemblyInfo.cs
+C:\Users\joseg\Documents\codigos-c#-josegab\exercicios-vetor\obj\Debug\net9.0\exercicios-vetor.csproj.CoreCompileInputs.cache
+C:\Users\joseg\Documents\codigos-c#-josegab\exercicios-vetor\obj\Debug\net9.0\exercicios-vetor.dll
+C:\Users\joseg\Documents\codigos-c#-josegab\exercicios-vetor\obj\Debug\net9.0\refint\exercicios-vetor.dll
+C:\Users\joseg\Documents\codigos-c#-josegab\exercicios-vetor\obj\Debug\net9.0\exercicios-vetor.pdb
+C:\Users\joseg\Documents\codigos-c#-josegab\exercicios-vetor\obj\Debug\net9.0\exercicios-vetor.genruntimeconfig.cache
+C:\Users\joseg\Documents\codigos-c#-josegab\exercicios-vetor\obj\Debug\net9.0\ref\exercicios-vetor.dll

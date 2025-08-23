@@ -1,0 +1,15 @@
+C:\Users\joseg\Documents\codigos-c#-josegab\codigos-feitos-no-bee-crowd\obj\Debug\net9.0\codigos-feitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joseg\Documents\codigos-c#-josegab\codigos-feitos-no-bee-crowd\obj\Debug\net9.0\codigos-feitos.AssemblyInfoInputs.cache
+C:\Users\joseg\Documents\codigos-c#-josegab\codigos-feitos-no-bee-crowd\obj\Debug\net9.0\codigos-feitos.AssemblyInfo.cs
+C:\Users\joseg\Documents\codigos-c#-josegab\codigos-feitos-no-bee-crowd\obj\Debug\net9.0\codigos-feitos.csproj.CoreCompileInputs.cache
+C:\Users\joseg\Documents\codigos-c#-josegab\codigos-feitos-no-bee-crowd\obj\Debug\net9.0\codigos-feitos.sourcelink.json
+C:\Users\joseg\Documents\codigos-c#-josegab\codigos-feitos-no-bee-crowd\bin\Debug\net9.0\codigos-feitos.exe
+C:\Users\joseg\Documents\codigos-c#-josegab\codigos-feitos-no-bee-crowd\bin\Debug\net9.0\codigos-feitos.deps.json
+C:\Users\joseg\Documents\codigos-c#-josegab\codigos-feitos-no-bee-crowd\bin\Debug\net9.0\codigos-feitos.runtimeconfig.json
+C:\Users\joseg\Documents\codigos-c#-josegab\codigos-feitos-no-bee-crowd\bin\Debug\net9.0\codigos-feitos.dll
+C:\Users\joseg\Documents\codigos-c#-josegab\codigos-feitos-no-bee-crowd\bin\Debug\net9.0\codigos-feitos.pdb
+C:\Users\joseg\Documents\codigos-c#-josegab\codigos-feitos-no-bee-crowd\obj\Debug\net9.0\codigos-feitos.dll
+C:\Users\joseg\Documents\codigos-c#-josegab\codigos-feitos-no-bee-crowd\obj\Debug\net9.0\refint\codigos-feitos.dll
+C:\Users\joseg\Documents\codigos-c#-josegab\codigos-feitos-no-bee-crowd\obj\Debug\net9.0\codigos-feitos.pdb
+C:\Users\joseg\Documents\codigos-c#-josegab\codigos-feitos-no-bee-crowd\obj\Debug\net9.0\codigos-feitos.genruntimeconfig.cache
+C:\Users\joseg\Documents\codigos-c#-josegab\codigos-feitos-no-bee-crowd\obj\Debug\net9.0\ref\codigos-feitos.dll
