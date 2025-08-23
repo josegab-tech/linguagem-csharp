@@ -71,7 +71,7 @@ namespace MinhaBiblioteca
                     maiorValor = vetor[i];
                 }
             }
-            Console.WriteLine(maiorValor);
+            Console.WriteLine($"O maior valor do vetor é: {maiorValor}");
         }
         
         public static void menorValorReal(double[] vetor)
@@ -84,7 +84,7 @@ namespace MinhaBiblioteca
                     menorValor = vetor[i];
                 }
             }
-            Console.WriteLine(menorValor);
+            Console.WriteLine($"O menor valor do vetor é: {menorValor}");
         }
         
     }

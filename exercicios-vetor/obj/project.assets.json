@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joseg\\Documents\\codigos-c#-josegab\\exercicios-vetor\\exercicios-vetor.csproj",
+      "projectUniqueName": "C:\\Users\\joseg\\Documents\\codigos-c#-josegab\\linguagem-csharp\\exercicios-vetor\\exercicios-vetor.csproj",
       "projectName": "exercicios-vetor",
-      "projectPath": "C:\\Users\\joseg\\Documents\\codigos-c#-josegab\\exercicios-vetor\\exercicios-vetor.csproj",
+      "projectPath": "C:\\Users\\joseg\\Documents\\codigos-c#-josegab\\linguagem-csharp\\exercicios-vetor\\exercicios-vetor.csproj",
       "packagesPath": "C:\\Users\\joseg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joseg\\Documents\\codigos-c#-josegab\\exercicios-vetor\\obj\\",
+      "outputPath": "C:\\Users\\joseg\\Documents\\codigos-c#-josegab\\linguagem-csharp\\exercicios-vetor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joseg\\AppData\\Roaming\\NuGet\\NuGet.Config"

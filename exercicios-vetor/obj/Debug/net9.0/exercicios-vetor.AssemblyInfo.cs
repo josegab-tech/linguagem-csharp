@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exercicios-vetor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e64ef07e9161d5e89098fef652010a07a0c631b")]
 [assembly: System.Reflection.AssemblyProductAttribute("exercicios-vetor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exercicios-vetor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
