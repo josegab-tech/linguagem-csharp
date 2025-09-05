@@ -6,7 +6,7 @@
     <RootNamespace>exercicios_vetor</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ex4</StartupObject>
+    <StartupObject>ex11</StartupObject>
   </PropertyGroup>
 
 </Project>
