@@ -1,0 +1,15 @@
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\exercicios-matrizes\bin\Debug\net9.0\ex-matrizes.exe
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\exercicios-matrizes\bin\Debug\net9.0\ex-matrizes.deps.json
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\exercicios-matrizes\bin\Debug\net9.0\ex-matrizes.runtimeconfig.json
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\exercicios-matrizes\bin\Debug\net9.0\ex-matrizes.dll
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\exercicios-matrizes\bin\Debug\net9.0\ex-matrizes.pdb
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\exercicios-matrizes\obj\Debug\net9.0\ex-matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\exercicios-matrizes\obj\Debug\net9.0\ex-matrizes.AssemblyInfoInputs.cache
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\exercicios-matrizes\obj\Debug\net9.0\ex-matrizes.AssemblyInfo.cs
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\exercicios-matrizes\obj\Debug\net9.0\ex-matrizes.csproj.CoreCompileInputs.cache
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\exercicios-matrizes\obj\Debug\net9.0\ex-matrizes.sourcelink.json
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\exercicios-matrizes\obj\Debug\net9.0\ex-matrizes.dll
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\exercicios-matrizes\obj\Debug\net9.0\refint\ex-matrizes.dll
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\exercicios-matrizes\obj\Debug\net9.0\ex-matrizes.pdb
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\exercicios-matrizes\obj\Debug\net9.0\ex-matrizes.genruntimeconfig.cache
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\exercicios-matrizes\obj\Debug\net9.0\ref\ex-matrizes.dll
