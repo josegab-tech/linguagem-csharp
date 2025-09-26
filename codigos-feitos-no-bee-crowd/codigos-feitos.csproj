@@ -6,7 +6,7 @@
     <RootNamespace>codigos_feitos</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>PositivesAndAverage</StartupObject>
+    <StartupObject>LowerNumber</StartupObject>
     
   </PropertyGroup>
 

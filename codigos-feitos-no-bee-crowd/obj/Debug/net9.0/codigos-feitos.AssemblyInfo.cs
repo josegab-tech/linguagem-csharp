@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("codigos-feitos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59604ad6162f692c0f881494b5b9452bf9195715")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd87e37e125ba1a17b73f4ef641562ba247e9971")]
 [assembly: System.Reflection.AssemblyProductAttribute("codigos-feitos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("codigos-feitos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

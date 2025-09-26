@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joseg\\Documents\\codigos-c#-josegab\\codigos-feitos-no-bee-crowd\\codigos-feitos.csproj": {}
+    "C:\\Users\\joseg\\Documents\\codigos-c#-josegab\\linguagem-csharp\\codigos-feitos-no-bee-crowd\\codigos-feitos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joseg\\Documents\\codigos-c#-josegab\\codigos-feitos-no-bee-crowd\\codigos-feitos.csproj": {
+    "C:\\Users\\joseg\\Documents\\codigos-c#-josegab\\linguagem-csharp\\codigos-feitos-no-bee-crowd\\codigos-feitos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joseg\\Documents\\codigos-c#-josegab\\codigos-feitos-no-bee-crowd\\codigos-feitos.csproj",
+        "projectUniqueName": "C:\\Users\\joseg\\Documents\\codigos-c#-josegab\\linguagem-csharp\\codigos-feitos-no-bee-crowd\\codigos-feitos.csproj",
         "projectName": "codigos-feitos",
-        "projectPath": "C:\\Users\\joseg\\Documents\\codigos-c#-josegab\\codigos-feitos-no-bee-crowd\\codigos-feitos.csproj",
+        "projectPath": "C:\\Users\\joseg\\Documents\\codigos-c#-josegab\\linguagem-csharp\\codigos-feitos-no-bee-crowd\\codigos-feitos.csproj",
         "packagesPath": "C:\\Users\\joseg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joseg\\Documents\\codigos-c#-josegab\\codigos-feitos-no-bee-crowd\\obj\\",
+        "outputPath": "C:\\Users\\joseg\\Documents\\codigos-c#-josegab\\linguagem-csharp\\codigos-feitos-no-bee-crowd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joseg\\AppData\\Roaming\\NuGet\\NuGet.Config"
