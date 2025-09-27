@@ -17,13 +17,13 @@ A primeira linha exibe a mensagem “Menor valor:” seguida de um espaço e o m
         int n, menorValor, posicao;
 
 
-        Console.WriteLine("Digite o tamanho do vetor: ");
+        //Console.WriteLine("Digite o tamanho do vetor: ");
         n = int.Parse(Console.ReadLine());
 
         int[] vetor = new int[n];
 
 
-        Console.WriteLine("digite os valores separando por espaço: ");
+        //Console.WriteLine("digite os valores separando por espaço: ");
         string[] cadeia = Console.ReadLine().Split(' ');
 
         for (int i = 0; i < n; i++)
