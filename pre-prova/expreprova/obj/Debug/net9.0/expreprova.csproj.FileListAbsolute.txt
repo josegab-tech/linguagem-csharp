@@ -1,0 +1,15 @@
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\pre-prova\expreprova\obj\Debug\net9.0\expreprova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\pre-prova\expreprova\obj\Debug\net9.0\expreprova.AssemblyInfoInputs.cache
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\pre-prova\expreprova\obj\Debug\net9.0\expreprova.AssemblyInfo.cs
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\pre-prova\expreprova\obj\Debug\net9.0\expreprova.csproj.CoreCompileInputs.cache
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\pre-prova\expreprova\obj\Debug\net9.0\expreprova.sourcelink.json
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\pre-prova\expreprova\bin\Debug\net9.0\expreprova.exe
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\pre-prova\expreprova\bin\Debug\net9.0\expreprova.deps.json
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\pre-prova\expreprova\bin\Debug\net9.0\expreprova.runtimeconfig.json
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\pre-prova\expreprova\bin\Debug\net9.0\expreprova.dll
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\pre-prova\expreprova\bin\Debug\net9.0\expreprova.pdb
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\pre-prova\expreprova\obj\Debug\net9.0\expreprova.dll
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\pre-prova\expreprova\obj\Debug\net9.0\refint\expreprova.dll
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\pre-prova\expreprova\obj\Debug\net9.0\expreprova.pdb
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\pre-prova\expreprova\obj\Debug\net9.0\expreprova.genruntimeconfig.cache
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\pre-prova\expreprova\obj\Debug\net9.0\ref\expreprova.dll

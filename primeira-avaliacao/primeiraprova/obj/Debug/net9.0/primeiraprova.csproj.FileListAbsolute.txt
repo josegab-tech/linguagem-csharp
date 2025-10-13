@@ -1,0 +1,15 @@
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\primeira-avaliacao\primeiraprova\bin\Debug\net9.0\primeiraprova.exe
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\primeira-avaliacao\primeiraprova\bin\Debug\net9.0\primeiraprova.deps.json
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\primeira-avaliacao\primeiraprova\bin\Debug\net9.0\primeiraprova.runtimeconfig.json
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\primeira-avaliacao\primeiraprova\bin\Debug\net9.0\primeiraprova.dll
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\primeira-avaliacao\primeiraprova\bin\Debug\net9.0\primeiraprova.pdb
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\primeira-avaliacao\primeiraprova\obj\Debug\net9.0\primeiraprova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\primeira-avaliacao\primeiraprova\obj\Debug\net9.0\primeiraprova.AssemblyInfoInputs.cache
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\primeira-avaliacao\primeiraprova\obj\Debug\net9.0\primeiraprova.AssemblyInfo.cs
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\primeira-avaliacao\primeiraprova\obj\Debug\net9.0\primeiraprova.csproj.CoreCompileInputs.cache
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\primeira-avaliacao\primeiraprova\obj\Debug\net9.0\primeiraprova.sourcelink.json
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\primeira-avaliacao\primeiraprova\obj\Debug\net9.0\primeiraprova.dll
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\primeira-avaliacao\primeiraprova\obj\Debug\net9.0\refint\primeiraprova.dll
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\primeira-avaliacao\primeiraprova\obj\Debug\net9.0\primeiraprova.pdb
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\primeira-avaliacao\primeiraprova\obj\Debug\net9.0\primeiraprova.genruntimeconfig.cache
+C:\Users\joseg\Documents\codigos-c#-josegab\linguagem-csharp\primeira-avaliacao\primeiraprova\obj\Debug\net9.0\ref\primeiraprova.dll
